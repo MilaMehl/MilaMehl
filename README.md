@@ -1,16 +1,12 @@
-## Hi there 👋
+# Oi, eu sou a Mila! 👋
+🎓 Estudante de Ciência da Computação na UNISUL  
+🚀 Focada em Robótica, IA e aplicações espaciais  
+📒 Atualmente aprendendo Python
 
-<!--
-**MilaMehl/MilaMehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MilaMehl's GitHub stats](https://github-readme-stats.vercel.app/api?username=milamehl&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milamehl&layout=compact&theme=dracula)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Onde me encontrar
+<a href="https://www.linkedin.com/in/camila-mehl-089872364">
+  <img src="https://img.shields.io/badge/LinkedIn-Camila%20Mehl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Camila Mehl">
+</a>
