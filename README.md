@@ -1,6 +1,5 @@
-# Oi, eu sou a Mila! 👋
-🎓 Estudante de Ciência da Computação na UNISUL  
-🚀 Focada em Robótica, IA e aplicações espaciais  
+# Olá, eu sou a Mila! 👋
+🎓 Estudante de Ciência da Computação
 📒 Atualmente aprendendo Python
 
 ![MilaMehl's GitHub stats](https://github-readme-stats.vercel.app/api?username=milamehl&show_icons=true&theme=dracula)
