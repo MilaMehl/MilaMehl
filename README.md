@@ -1,9 +1,6 @@
 # Olá, eu sou a Mila! 👋
-🎓 Estudante de Ciência da Computação
+🎓 Estudante de Ciência da Computação <br> 
 📒 Atualmente aprendendo Python
-
-![MilaMehl's GitHub stats](https://github-readme-stats.vercel.app/api?username=milamehl&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milamehl&layout=compact&theme=dracula)
 
 ## 📫 Onde me encontrar
 <a href="https://www.linkedin.com/in/camila-mehl-089872364">
