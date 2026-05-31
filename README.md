@@ -1,15 +1,19 @@
-# Hey 👋, I'm Mila! 
-🎓 I'm a second semester computer science student.<br> 
+<div align="center">
+  <h2>🌸 Hi, I'm Camila (Mila) ♡</h2>
+  <p><b>Computer Science Student | Developer (Python, C#, SQL) | Japan 2030 Goal</b></p>
+  <br>
+  <p>Driven by ambition and autonomy. My long-term goal is to apply cutting-edge technology in the aerospace sector and secure my Master's degree at an elite university.</p>
+  <br>
+  <h3>👾 Eat, Sleep, Code, Repeat</h3>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilaMehl/MilaMehl/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MilaMehl/MilaMehl/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Pacman devouring GitHub contributions" src="https://raw.githubusercontent.com/MilaMehl/MilaMehl/pacman-output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milamehl/milamehl/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milamehl/milamehl/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/milamehl/milamehl/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-
-## 📫 Onde me encontrar
+## 🌸📫 Where to find me 🌸
 <a href="https://www.linkedin.com/in/camila-mehl-089872364">
   <img src="https://img.shields.io/badge/LinkedIn-Camila%20Mehl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Camila Mehl">
 </a>
