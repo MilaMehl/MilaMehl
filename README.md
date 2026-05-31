@@ -1,6 +1,13 @@
-# Olá, eu sou a Mila! 👋
-🎓 Estudante de Ciência da Computação <br> 
-📒 Atualmente aprendendo Python
+# Hey 👋, I'm Mila! 
+🎓 I'm a second semester computer science student.<br> 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milamehl/milamehl/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milamehl/milamehl/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/milamehl/milamehl/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
 
 ## 📫 Onde me encontrar
 <a href="https://www.linkedin.com/in/camila-mehl-089872364">
