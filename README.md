@@ -1,8 +1,7 @@
 <div align="center">
   <h2>🌸 Hi, I'm Camila (Mila) ♡</h2>
-  <p><b>Computer Science Student | Developer (Python, C#, SQL) | Japan 2030 Goal</b></p>
+  <p><b>Computer Science Student 💻 | Software Developer | ⛩️🍡 Japan 2030 Goal</b></p>
   <br>
-  <p>Driven by ambition and autonomy. My long-term goal is to apply cutting-edge technology in the aerospace sector and secure my Master's degree at an elite university.</p>
   <br>
   <h3>👾 Eat, Sleep, Code, Repeat</h3>
   <br>
