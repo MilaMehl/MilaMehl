@@ -1,13 +1,8 @@
 # ♡ Hi, I'm Camila (Mila) ♡
-
-I am a Computer Science student who is passionate about understanding how things work. My goal in technology isn't just to write code, but to use science to make a real impact, become a great researcher, and help people in any way I can.
-
-I still have a universe of things to learn, many projects to develop, and I am focused on building a solid and meaningful path in scientific research.
-
 ---
 
 ### ♡ Interests
-Research | Robotics | Astrophysics | Astronautics
+ Game Art | UI/UX Design | Research | Robotics 
 
 ---
 
