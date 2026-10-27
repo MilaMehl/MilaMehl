@@ -1,5 +1,4 @@
 # ♡ Hi, I'm Camila (Mila) ♡
----
 
 ### ♡ Interests
  Game Art | UI/UX Design | Research | Robotics 
