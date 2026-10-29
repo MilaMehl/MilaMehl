@@ -26,7 +26,7 @@ Game Art | Pixel Art & Animation | 3D Art | Game Design | Technical Art (Unity)
 ### 📬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Camila_Mehl-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilamehl)
-[![Itch.io](https://img.shields.io/badge/Itch.io-MilaMehl-FA5C5C?style=flat&logo=itch.io&logoColor=white)]((https://myacraft.itch.io/))
+[![Itch.io](https://img.shields.io/badge/Itch.io-MilaMehl-FA5C5C?style=flat&logo=itch.io&logoColor=white)](https://myacraft.itch.io/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Carrd-000000?style=flat&logo=carrd&logoColor=white)](https://milamehl.carrd.co/)
 
 ---
